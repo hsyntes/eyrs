@@ -14,7 +14,7 @@ export default async function handler(req, res) {
     ]);
 
     for (const website of websites) {
-      if (new Date() - new Date(website.updatedAt) > 1 * 60 * 1000) {
+      if (new Date() - new Date(website.updatedAt) > 3 * 60 * 1000) {
         if (
           website.website_name === "Maximumbahis" ||
           website.website_name === "Teslabahis"
