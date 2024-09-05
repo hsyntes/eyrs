@@ -7,7 +7,7 @@ export default function Home({ websites }) {
       <Head>
         <meta
           name="description"
-          content="RTP Sorgu | Casino oyunlarının en güncel RTP oranları"
+          content="En Yüksek RTP Siteler | Bet Sitelerinin En Güncel RTP Oranları"
         />
         <meta
           name="keywords"
