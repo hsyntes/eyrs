@@ -47,7 +47,7 @@ export default function Home({ websites }) {
               target="_blank"
               className="text-blue-800 font-bold"
             >
-              rtpsorgu.comda
+              rtpsorgu.com
             </Link>
             'dan kolayca sorgulayabilirsiniz.
           </p>
